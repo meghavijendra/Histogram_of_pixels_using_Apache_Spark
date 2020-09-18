@@ -11,6 +11,6 @@ represents a pixel with red=23, green=140, and blue=45.
 
 
 To compile and run the project navigate to the given directory and do the following steps:<br />
-cd project4<br />
+
 mvn install<br />
 ~/spark-1.5.2-bin-hadoop2.6/bin/spark-submit --class Histogram target/histogram.jar pixels-small.txt
